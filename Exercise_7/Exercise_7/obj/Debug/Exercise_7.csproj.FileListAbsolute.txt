@@ -1,0 +1,5 @@
+D:\STUDIES\C#_exercise\Exercise_7\Exercise_7\Exercise_7\bin\Debug\Exercise_7.exe.config
+D:\STUDIES\C#_exercise\Exercise_7\Exercise_7\Exercise_7\bin\Debug\Exercise_7.exe
+D:\STUDIES\C#_exercise\Exercise_7\Exercise_7\Exercise_7\bin\Debug\Exercise_7.pdb
+D:\STUDIES\C#_exercise\Exercise_7\Exercise_7\Exercise_7\obj\Debug\Exercise_7.exe
+D:\STUDIES\C#_exercise\Exercise_7\Exercise_7\Exercise_7\obj\Debug\Exercise_7.pdb

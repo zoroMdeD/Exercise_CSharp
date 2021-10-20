@@ -1,0 +1,6 @@
+D:\STUDIES\C#_exercise\Exercise_13\Exercise_13\Exercise_13\bin\Debug\Exercise_13.exe.config
+D:\STUDIES\C#_exercise\Exercise_13\Exercise_13\Exercise_13\bin\Debug\Exercise_13.exe
+D:\STUDIES\C#_exercise\Exercise_13\Exercise_13\Exercise_13\bin\Debug\Exercise_13.pdb
+D:\STUDIES\C#_exercise\Exercise_13\Exercise_13\Exercise_13\obj\Debug\Exercise_13.csprojResolveAssemblyReference.cache
+D:\STUDIES\C#_exercise\Exercise_13\Exercise_13\Exercise_13\obj\Debug\Exercise_13.exe
+D:\STUDIES\C#_exercise\Exercise_13\Exercise_13\Exercise_13\obj\Debug\Exercise_13.pdb

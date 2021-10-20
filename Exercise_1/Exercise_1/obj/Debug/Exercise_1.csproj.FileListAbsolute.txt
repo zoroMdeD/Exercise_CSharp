@@ -1,0 +1,6 @@
+D:\STUDIES\C#_exercise\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe.config
+D:\STUDIES\C#_exercise\Exercise_1\Exercise_1\bin\Debug\Exercise_1.exe
+D:\STUDIES\C#_exercise\Exercise_1\Exercise_1\bin\Debug\Exercise_1.pdb
+D:\STUDIES\C#_exercise\Exercise_1\Exercise_1\obj\Debug\Exercise_1.csprojResolveAssemblyReference.cache
+D:\STUDIES\C#_exercise\Exercise_1\Exercise_1\obj\Debug\Exercise_1.exe
+D:\STUDIES\C#_exercise\Exercise_1\Exercise_1\obj\Debug\Exercise_1.pdb
